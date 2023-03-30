@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Noflix/static/css/main.a00abdb3.css",
+    "main.js": "/Noflix/static/js/main.bc7a3396.js",
+    "static/js/787.54bf3259.chunk.js": "/Noflix/static/js/787.54bf3259.chunk.js",
+    "index.html": "/Noflix/index.html",
+    "main.a00abdb3.css.map": "/Noflix/static/css/main.a00abdb3.css.map",
+    "main.bc7a3396.js.map": "/Noflix/static/js/main.bc7a3396.js.map",
+    "787.54bf3259.chunk.js.map": "/Noflix/static/js/787.54bf3259.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a00abdb3.css",
+    "static/js/main.bc7a3396.js"
+  ]
+}
